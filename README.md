@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @chinymua
+- 👋 Hi, I’m @chinymue
 - 👀 I’m interested in games
-- 🌱 I’m currently learning html/css/js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: chi.ntm215318@sis.hust.edu.vn
+- 📫 How to reach me: chi.ntm215318@sis.hust.edu.vn (expired in 2026); chinymue@gmail.com
 
 <!---
 chinymua/chinymua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
